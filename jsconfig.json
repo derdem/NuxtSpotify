@@ -1,0 +1,11 @@
+{
+  "exclude": ["node_modules", "dist", ".nuxt"],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "~/*": ["src/*"]
+    }
+  }
+}
