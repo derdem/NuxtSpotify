@@ -18,7 +18,7 @@
     "commit": "commit",
     "heroku-postbuild": "npm run build"
   },
-  "author": "",
+  "author": "Nikodem Bienia",
   "license": "ISC",
   "dependencies": {
     "nuxt": "^2.11.0",
