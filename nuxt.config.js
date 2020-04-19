@@ -1,5 +1,9 @@
 export default {
   srcDir: "src",
+  server: {
+    port: 8000,
+    host: '0.0.0.0'
+  },
   modules: [
     "nuxt-stack",
     "@nuxtjs/axios"
