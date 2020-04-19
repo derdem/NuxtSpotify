@@ -14,7 +14,7 @@ export default {
   },
   stack: {
     name: "Nuxt Stack",
-    host: "0.0.0.0", //"https://nuxtstack.org/",
+    host: "192.168.178.124", //"https://nuxtstack.org/",
     description: "Stacks of goodness for Nuxt",
     keywords: ["nuxt", "stack"],
     backgroundColor: "#FFFFFF",
