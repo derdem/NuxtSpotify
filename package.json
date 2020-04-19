@@ -15,7 +15,8 @@
     "generate": "nuxt generate --modern=client",
     "format": "nuxt format --write --lint '*.{md}' 'src/**/*.{js,json,scss,vue}'",
     "lint": "nuxt lint . --fix",
-    "commit": "commit"
+    "commit": "commit",
+    "heroku-postbuild": "npm run build"
   },
   "author": "",
   "license": "ISC",
