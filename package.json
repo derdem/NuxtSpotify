@@ -21,7 +21,7 @@
   "author": "Nikodem Bienia",
   "license": "ISC",
   "dependencies": {
-    "nuxt": "^2.11.0",
+    "nuxt": "^3.4.3",
     "nuxt-stack": "^0.7.2"
   },
   "husky": {
